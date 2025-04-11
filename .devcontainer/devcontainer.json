@@ -1,5 +1,5 @@
 {
-  "name": "Python 3.10 Dev Container",
+  "name": "Hands On Machine Learning Container",
   "image": "mcr.microsoft.com/devcontainers/python:3.10",
   "features": {
     "ghcr.io/devcontainers/features/git:1": {},
